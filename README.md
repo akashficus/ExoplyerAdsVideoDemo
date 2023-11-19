@@ -8,7 +8,7 @@ This project hosts samples for the [Android Exoplayer DEMO](https://github.com/a
 *   Android Studio 3.0 or newer
 
 ### Downloads
-Check out the [releases section](https://github.com/googleads/googleads-ima-android/releases) for downloadable zips of the source.
+Check out the [releases section](https://github.com/akashficus/ExoplyerAdsVideoDemo/releases) for downloadable zips of the source.
 
 ### More Info
 For more information, see the documentation at https://developers.google.com/interactive-media-ads/docs/sdks/android/v3/.
