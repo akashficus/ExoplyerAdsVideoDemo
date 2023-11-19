@@ -1,9 +1,7 @@
-Google Ads Android IMA SDK
+Exoplayer With Ads Android SDK
 --------------------------
 
-![Build status](https://github.com/googleads/googleads-ima-android/workflows/Build%20Status/badge.svg?branch=main)
-
-This project hosts samples for the [Android IMA SDK](https://developers.google.com/interactive-media-ads/docs/sdks/android/v3/).
+This project hosts samples for the [Android Exoplayer DEMO](https://github.com/akashficus/ExoplyerAdsVideoDemo).
 
 ### Requirements
 
@@ -17,5 +15,6 @@ For more information, see the documentation at https://developers.google.com/int
 
 ### Announcements and Updates
 
-For IMA SDK updates and news, follow our
-[Google Ads Developers blog](https://ads-developers.googleblog.com/)
+[Android Developers StackOverFlow](https://stackoverflow.com/users/698716/akash-singh/)
+
+[Android Developers LinkedIn](https://www.linkedin.com/in/androidcoder/)
